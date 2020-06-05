@@ -1,0 +1,37 @@
+{
+"symbol": "DRAPER",
+
+"name": "Draper Token",
+
+"type": "ERC20",
+
+"address": "0xb6d699699ccc50548c1916b02afff6e5a7bc4117",
+"ens_address": "",
+"decimals": 10,
+"website": "https://draper.drapersolutions.com",
+"logo": {
+    "src": "https://draper.drapersolutions.com/wp-content/uploads/2019/05/DRAPER-TOKEN-ICON.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "info@drapersolutions.com",
+    "url": "https://draper.drapersolutions.com"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}

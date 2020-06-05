@@ -1,0 +1,37 @@
+{
+"symbol": "DST",
+
+"name": "Draper Solutions Token",
+
+"type": "ERC20",
+
+"address": "0xc0c2f918b7d98660506808b0e4972061906ff207.json",
+"ens_address": "",
+"decimals": 10,
+"website": "https://dst.drapersolutions.com",
+"logo": {
+    "src": "https://dst.drapersolutions.com/wp-content/uploads/2019/05/DST-ICON.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "info@drapersolutions.com",
+    "url": "https://dst.drapersolutions.com"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
